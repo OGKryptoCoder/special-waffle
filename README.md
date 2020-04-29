@@ -1,3 +1,2 @@
 # special-waffle
-There may or may not be a program coming here...
-[![Run on Repl.it](https://repl.it/badge/github/UltimateGamerProductions/special-waffle)](https://repl.it/github/UltimateGamerProductions/special-waffle)
+This is a calculator
